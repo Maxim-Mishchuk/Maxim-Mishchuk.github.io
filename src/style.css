@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+nav {
+    margin-top: 5px;
+}
+
+nav ul {
+    display: flex;
+    padding: 0 1em;
+}
+
+nav ul li {
+    margin: 0 0.25em;
+    padding: 0.5em;
+    border: 1px solid black;
+}
+
+#content {
+    margin-top: 5px;
+    min-height: calc(100vh - 235px);
+    display: flex;
+}
+
+#content main {
+    flex-grow: 4;
+    border: 1px solid black;
+}
+
+#content aside ul {
+    padding: 0 0.25em;
+}
+
+#content aside ul li {
+    margin: 0.25em 0;
+    padding: 0.5em;
+    border: 1px solid black;
+}
+
+footer {
+    margin-top: 5px;
+    padding: 1em;
+    border: 1px solid black;
+}

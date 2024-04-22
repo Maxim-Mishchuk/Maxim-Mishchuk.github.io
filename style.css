@@ -10,6 +10,7 @@ nav {
 
 nav ul {
     display: flex;
+    justify-content: center;
     padding: 0 1em;
 }
 
@@ -21,28 +22,46 @@ nav ul li {
 }
 
 .report-btn-active {
-    border: 4px solid black;
+    border: 3px solid black !important;
 }
 
 #content {
     margin-top: 5px;
-    min-height: calc(100vh - 235px);
+    min-height: calc(100vh - 240px);
     display: flex;
 }
 
+#content aside {
+    min-width: 17.5%;
+}
+
 #content main {
-    flex-grow: 4;
+    flex-grow: 3;
     border: 1px solid black;
+    padding: 5px;
+}
+
+em {
+    font-style: italic;
 }
 
 #content aside ul {
     padding: 0 0.25em;
 }
 
+.aside-btn-active {
+    border: 2px solid black !important;
+}
+
 #content aside ul li {
     margin: 0.25em 0;
     padding: 0.5em;
     border: 1px solid black;
+}
+
+main ul {
+    padding-left: 1.5em;
+    list-style: disc;
 }
 
 footer {

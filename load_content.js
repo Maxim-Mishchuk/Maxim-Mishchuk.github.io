@@ -1,17 +1,22 @@
 const aside = document.getElementById('aside-ul');
 const main = document.getElementsByTagName('main')[0];
 const buttons = document.getElementsByClassName('report-btn');
+
+let currentReport;
+let currentActiveSection;
 function readReport(num) {
     fetch('./reports.json')
         .then((response) => response.json())
         .then((json) => {
-            let currentReport = json[num];
+            currentReport = json[num];
+            currentActiveSection = 0;
             let list = '';
 
-            currentReport.aside.forEach(el => list += (`<li>${el}</li>`));
+            currentReport.content.forEach(el => list += (`<li class="aside-btn">${el.title}</li>`));
             aside.innerHTML = list;
 
-            main.innerHTML = currentReport.main;
+            initSectionButtons();
+            openSection(currentActiveSection);
 
             for (let i = 0; i < buttons.length; i++) {
                 if (i !== num) {
@@ -31,6 +36,32 @@ function readReport(num) {
 function initReportButtons() {
     for (let i = 0; i < buttons.length; i++) {
         buttons[i].addEventListener('click', () => readReport(i));
+    }
+}
+
+function openSection(num) {
+    currentActiveSection = num;
+    let mainArr = currentReport.content[currentActiveSection].main;
+    main.innerHTML = "";
+
+    for(let mainValue of mainArr) {
+        main.innerHTML += mainValue
+    }
+
+    let aside_buttons = document.getElementsByClassName("aside-btn");
+    for (let i = 0; i < aside_buttons.length; i++) {
+        if (i !== num) {
+            aside_buttons[i].classList.remove('aside-btn-active');
+        } else {
+            aside_buttons[i].classList.add('aside-btn-active');
+        }
+    }
+}
+
+function initSectionButtons() {
+    let aside_buttons = document.getElementsByClassName("aside-btn");
+    for (let i = 0; i < aside_buttons.length; i++) {
+        aside_buttons[i].addEventListener('click', () => openSection(i))
     }
 }
 

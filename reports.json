@@ -1,10 +1,220 @@
 [
   {
-    "aside": ["Опис програмного середовища", "Стрктура документа", "Висновки"],
-    "main": "Основний контент"
+    "content": [
+      {
+        "title": "Опис предметної області",
+        "main": [
+          "Тема: Систему розкладу занять навчального закладу<br>Сутності:<br>- Факультет<br>- Кафедра<br>- Дисципліна<br>- Викладач<br>- Група<br>Основні дії (анонімний користувач):<br>- Перегляд розкладу за групою<br>- Перегляд розкладу за викладачем<br>Основні дії (адміністратор):<br>- додавання сутностей до бази даних<br>- зміна сутностей в базі даних"
+        ]
+      },
+      {
+        "title": "Тема та мета",
+        "main": [
+          "Тема: СТРУКТУРА HTML-ДОКУМЕНТА. ВИБІР ПРЕДМЕТНОЇ ГАЛУЗІ. РОБОТА З ПОСИЛАННЯМИ, ТАБЛИЦЯМИ, ЗОБРАЖЕННЯМИ, СПИСКАМИ в HTML-ДОКУМЕНТІ.<br>Мета: придбати практичні навички роботи  з HTML-документом, таблицями, зображеннями, посиланнями, списками, формами. Створити шаблон звітного HTML-документом для відображення результатів роботи всіх лабораторних робіт."
+        ]
+      },
+      {
+        "title": "Хід роботи",
+        "main": [
+          "1. Розробити макет резюме:<br>Посилання на репозиторій: <a href=\"https://github.com/Maxim-Mishchuk/mmd-resume.github.io\">mmd-resume</a><br>Посилання на живу сторінку: <a href=\"https://maxim-mishchuk.github.io/mmd-resume.github.io/\">mmd-resume.github.io</a><br>2. Розробити макет в figma майбутнього проєкту:<br>Посилання на макет: <a href=\"https://www.figma.com/file/6UtAj1cbX9pDQWEykiqAJ4/mmd-project?type=design&mode=design&t=w3sQcVu7bBesvukl-1\">mmd-project-figma</a><br>3. Розробити основний html-макет:<br>Посилання на репозиторій: <a href=\"https://github.com/Maxim-Mishchuk/mmd-project.github.io\">mmd-project</a><br>Посилання на живу сторінку: <a href=\"https://maxim-mishchuk.github.io/mmd-project.github.io/\">mmd-project.github.io</a><br>3.1. HTML-код таблиць:<br><img src=\"img/lab1/table.jpg\"><br>3.2. HTML-код форми:<br><img src=\"img/lab1/form.jpg\"><br>3.3. HTML-код зображення:<br><img src=\"img/lab1/img.jpg\"><br>"
+        ]
+      },
+      {
+        "title": "Висновки",
+        "main": [
+          "В даній лаобраторній роботі було досліджено основні властивості html-верстки. Описано предметну область власного проекту. Створено каркас резюме та власного проекту з використанням семантичних тегів."
+        ]
+      }
+    ]
   },
   {
-    "aside": ["CSS: Шрифти, Текст <br> Таблиці Фон Контур <br> Списки CSS Просунутий", "Стрктура документа", "Висновки"],
-    "main": "Основний контент"
+    "content": [
+      {
+        "title": "Тема та мета",
+        "main": [
+          "Тема: КАСКАДНІ ТАБЛИЦІ СТИЛІВ. СЕЛЕКТОРИ .ІДЕНТИФІКАТОРИ. СТИЛЬОВЕ ОФОРМЛЕННЯ ТЕКСТОВИХ ЕЛЕМЕНТІВ В HTML-ДОКУМЕНТАХ.<br>Мета: придбати практичні навички роботи  з селекторами, ідентифікаторами, списками,  різноманітними властивостями кольору і фону,  зовнішними та внутрішними  відступами,  плаваючими елементами, оформленням текстових елементів"
+        ]
+      },
+      {
+        "title": "Способи підключення стилів",
+        "main": [
+          "1. Через тег <em>style</em><br>2. Через атрибут тегу <em>style</em><br>3. Через <em>link</em>. Підключення зовнішнього файлу"
+        ]
+      },
+      {
+        "title": "Селектори",
+        "main": [
+          "1. Селектори тегу<br><img src=\"img/lab2/tag.jpg\"><br>2. Селектори класу<br><img src=\"img/lab2/class.jpg\"><br>3. Селектори ідентифікаторів<br><img src=\"img/lab2/id.jpg\"><br>4. Інші селектори<br>4.1. Псевдокласи<br><img src=\"img/lab2/pseudo_class.jpg\"><br>4.2. Псевдоелементи<br><img src=\"img/lab2/pseudo_element.jpg\"><br>"
+        ]
+      },
+      {
+        "title": "CSS-атрибути",
+        "main": [
+          "1. Шрифти<br><img src=\"img/lab2/font.jpg\"><br>2. Фон<br><img src=\"img/lab2/background.jpg\"><br>3. Контури<br><img src=\"img/lab2/border.jpg\"><br>4. Списки<br><img src=\"img/lab2/list.jpg\"><br>5. Таблиці<br><img src=\"img/lab2/table.jpg\"><br>"
+        ]
+      },
+      {
+        "title": "Висновки",
+        "main": [
+          "В даній лабораторній роботі було досліджено основні властивості стилізації html-каркасу. Було додано стилізацію всіх елементів до резюме та власного проекту."
+        ]
+      }
+    ]
+  },
+  {
+    "content": [
+      {
+        "title": "Тема та мета",
+        "main": [
+          "Тема: ВЕРСТКА HTML-ДОКУМЕНТУ. БЛОКОВА ВЕРСТКА.  ВЕРСТКА ЗАСОБАМИ CSS та FLEXBOX.<br>Мета: <br> ⎯ придбати практичні навички роботи  верстки сторінок засобами CSS, верстки на основі плаваючих елементів, з’ясувати переваги та недоліки типів макетів веб-сторінок<br>⎯придбати практичні навички роботи  верстки сторінок засобами CSS та FLEXBOX"
+        ]
+      },
+      {
+        "title": "Завдання №1",
+        "main": [
+          "Приклад використання:<br>HTML:<br><img src=\"img/lab3/task1-html.jpg\"><br>CSS:<br><img src=\"img/lab3/task1-css.jpg\"><br>Вихідний результат:<br>Посилання на репозиторій: <a href=\"https://github.com/Maxim-Mishchuk/mmd-project.github.io\">mmd-project</a><br>Посилання на живу сторінку: <a href=\"https://maxim-mishchuk.github.io/mmd-project.github.io/\">mmd-project.github.io</a><br>"
+        ]
+      },
+      {
+        "title": "Завдання №2",
+        "main": [
+          "Вхідні дані:<br><img src=\"img/lab3/task2-1.jpg\"><br><img src=\"img/lab3/task2-2.jpg\"><br>Вихідний результат:<br>Посилання на репозиторій: <a href=\"https://github.com/Maxim-Mishchuk/mmd-lab3.github.io\">mmd-lab3</a><br><br>1. Гумова таблична верстка<br>Посилання на живу сторінку: <a href=\"https://maxim-mishchuk.github.io/mmd-lab3.github.io/task2-table-resin.html\">task2-table-resin</a><br>2. Фіксована блокова верстка<br>Посилання на живу сторінку: <a href=\"https://maxim-mishchuk.github.io/mmd-lab3.github.io/task2-block-static.html\">task2-block-static</a><br>3. Гумова блокова верстка<br>Посилання на живу сторінку: <a href=\"https://maxim-mishchuk.github.io/mmd-lab3.github.io/task2-block-resin.html\">task2-block-resin</a><br>4. Flexbox-верстка<br>Посилання на живу сторінку: <a href=\"https://maxim-mishchuk.github.io/mmd-lab3.github.io/task2-block-flex.html\">task2-flexbox</a>"
+        ]
+      },
+      {
+        "title": "Завдання №3",
+        "main": [
+          "Вхідні дані:<br><img src=\"img/lab3/task3.jpg\"><br>Вихідний результат:<br>Посилання на репозиторій: <a href=\"https://github.com/Maxim-Mishchuk/mmd-lab3.github.io\">mmd-lab3</a><br>Посилання на живу сторінку: <a href=\"https://maxim-mishchuk.github.io/mmd-lab3.github.io/task3.html\">task3</a>"
+        ]
+      },
+      {
+        "title": "Висновки",
+        "main": [
+          "В даній лаобраторній роботі було досліджено основні типи верстки html+css: табличка верстка, блочна верстка, flexbox. Перші два типи розбиту на ще два підтипи: статична та гумова. Отриманні знання було використано в власному проекті."
+        ]
+      }
+    ]
+  },
+  {
+    "content": [
+      {
+        "title": "Тема та мета",
+        "main": [
+          "Тема: АДАПТИВНА ВЕРСТКА. МЕДІА-ЗАПИТИ. МЕТАТЕГ VIEWPORT. СТРАТЕГІЯ MOBILE FIRST.<br>Мета: Адаптивна верстка. Медіа-запити. Медіа-типи. Медіа-функції.Метатег viewport. Інструменти розробника. Стратегія Mobile First."
+        ]
+      },
+      {
+        "title": "Хід роботи",
+        "main": [
+          "1. Десктопна версія<br>Стилі з минулих лабораторних робіт передбачають використання десктопної версії. Перехід до інших стилів буде відбуватися коли вікно браузера буде менше 1200px.<br>",
+          "2. Планшетна версія<br><img src=\"img/lab4/tablet.jpg\"><br>",
+          "3. Мобільна версія<br>Для телефонів-фаблетів:<br><img src=\"img/lab4/mobile-1.jpg\"><br>Для телефонів малої діагоналі екрану:<br><img src=\"img/lab4/mobile-2.jpg\">"
+        ]
+      },
+      {
+        "title": "Висновки",
+        "main": [
+          "В даній лаобраторній роботі було досліджено медіа запити для створення адаптивної верстки візуального інтерфейсу. Додана адаптивне верстка для інтерфейсу власного проекту.<br>",
+          "Результати знаходяться за посиланнями:<br>",
+          "<ul><li>Репозиторій: <a href=\"https://github.com/Maxim-Mishchuk/mmd-project.github.io\">mmd-project</a></li><li>Жива сторінка: <a href=\"https://maxim-mishchuk.github.io/mmd-project.github.io/\">mmd-project.github.io</a></li></ul>"
+        ]
+      }
+    ]
+  },
+  {
+    "content": [
+      {
+        "title": "Тема та мета",
+        "main": [
+          "Тема: ФУНКЦІОНАЛЬНЕ ЗАСТОСУВАННЯ JAVASCRIPT У HTML-ДОКУМЕНТІ. ВИКОРИСТАННЯ МАСИВІВ У JS-СЦЕНАРІЯХ. РЕАЛІЗАЦІЯ ПРОГРАМ ЗАСОВАМИ МОВИ JAVASCRIPT<br>",
+          "Мета: придбати практичні навички роботи з масивами у js-сценаріях. Реалізація програм засовами мови JAVASCRIPT"
+        ]
+      },
+      {
+        "title": "Завдання №1",
+        "main": [
+          "Вхідні дані:<br><img src=\"img/lab5/task1-input.jpg\"><br>",
+          "Вихідний результат:<br><img src=\"img/lab5/task1-script.jpg\"><br>",
+          "Посилання на робочу програму: <a href=\"https://maxim-mishchuk.github.io/mmd-lab5.github.io/task1.html\">task1.github.io</a>"
+        ]
+      },
+      {
+        "title": "Завдання №2",
+        "main": [
+          "Вхідні дані:<br><img src=\"img/lab5/task2-input.jpg\"><br>",
+          "Вихідний результат:<br><img src=\"img/lab5/task2-script.jpg\"><br>",
+          "Посилання на робочу програму: <a href=\"https://maxim-mishchuk.github.io/mmd-lab5.github.io/task2.html\">task2.github.io</a>"
+        ]
+      },
+      {
+        "title": "Висновки",
+        "main": [
+          "В даній лаобраторній роботі було досліджено використання js-сценаріїв для створення динаміки на веб-сторінці. Виконано індивідуальні практичні завдання та додано сценарії (на розсуд студента) до власного проєкту.<br>",
+          "Посилання на отримані результати:<br>",
+          "<ul><li>Репозиторій: <a href=\"https://github.com/Maxim-Mishchuk/mmd-lab5.github.io\">mmd-lab5</a></li><li>Жива сторінка: <a href=\"https://maxim-mishchuk.github.io/mmd-lab5.github.io/\">mmd-lab5.github.io</a></li></ul>"
+        ]
+      }
+    ]
+  },
+  {
+    "content": [
+      {
+        "title": "Тема та мета",
+        "main": [
+          "Тема: ОБ'ЄКТ. МЕТОДИ ОБ'ЄКТА. МАСИВ ОБ'ЄКТІВ. ДЕСТРУКТУРИЗАЦІЯ ОБ'ЄКТІВ. CALLBACK. СТРІЛОЧНІ ФУНКЦІЇ. СТРІЛОЧНІ ФУНКЦІЇ ЯК КОЛБЕКИ<br>",
+          "Мета: придбати практичні навички роботи з об'єктами. Методи об'єкта. Callback. Стрілочні функції. Стрілочні функції як колбеки. Реалізація програм засовами мови JAVASCRIPT"
+        ]
+      },
+      {
+        "title": "Завдання №1",
+        "main": [
+          "Вхідні дані:<br><img src=\"img/lab6/task1-input.jpg\"><br>",
+          "Вихідний результат:<br><img src=\"img/lab6/task1-script.jpg\">"
+        ]
+      },
+      {
+        "title": "Завдання №3",
+        "main": [
+          "Вхідні дані:<br><img src=\"img/lab6/task3-input.jpg\"><br>",
+          "Вихідний результат:<br><img src=\"img/lab6/task3-script.jpg\">"
+        ]
+      },
+      {
+        "title": "Завдання №5",
+        "main": [
+          "Вхідні дані:<br><img src=\"img/lab6/task5-input.jpg\"><br>",
+          "Вихідний результат:<br><img src=\"img/lab6/task5-script.jpg\">"
+        ]
+      },
+      {
+        "title": "Завдання №7",
+        "main": [
+          "Вхідні дані:<br><img src=\"img/lab6/task7-input.jpg\"><br>",
+          "Вихідний результат:<br><img src=\"img/lab6/task7-script.jpg\">"
+        ]
+      },
+      {
+        "title": "Завдання №9",
+        "main": [
+          "Вхідні дані:<br><img src=\"img/lab6/task9-input.jpg\"><br>",
+          "Вихідний результат:<br><img src=\"img/lab6/task9-script.jpg\">"
+        ]
+      },
+      {
+        "title": "Завдання №10",
+        "main": [
+          "Вхідні дані:<br><img src=\"img/lab6/task10-input.jpg\"><br>",
+          "Вихідний результат:<br><img src=\"img/lab6/task10-script.jpg\">"
+        ]
+      },
+      {
+        "title": "Висновки",
+        "main": [
+          "В даній лаобраторній роботі було досліджено ООП-функціонал JS, використання callback та стрілочних функцій. Отримані знання було опрацьовано за допомиги практичних завдань.<br>",
+          "Посилання на отримані результати:<br>",
+          "<ul><li>Репозиторій: <a href=\"https://github.com/Maxim-Mishchuk/mmd-lab6.github.io\">mmd-lab6</a></li></ul>"
+        ]
+      }
+    ]
   }
 ]

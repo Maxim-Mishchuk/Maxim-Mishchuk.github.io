@@ -38,13 +38,20 @@
       {
         "title": "Способи підключення стилів",
         "main": [
-          "1. Через тег <em>style</em><br>2. Через атрибут тегу <em>style</em><br>3. Через <em>link</em>. Підключення зовнішнього файлу"
+          "1. Через тег <em>style</em><br><img src=\"img/lab2/style-tag.jpg\"><br>",
+          "2. Через атрибут тегу <em>style</em><br><img src=\"img/lab2/style-attr.jpg\"><br>",
+          "3. Через <em>link</em>. Підключення зовнішнього файлу<br><img src=\"img/lab2/link.jpg\">"
         ]
       },
       {
         "title": "Селектори",
         "main": [
-          "1. Селектори тегу<br><img src=\"img/lab2/tag.jpg\"><br>2. Селектори класу<br><img src=\"img/lab2/class.jpg\"><br>3. Селектори ідентифікаторів<br><img src=\"img/lab2/id.jpg\"><br>4. Інші селектори<br>4.1. Псевдокласи<br><img src=\"img/lab2/pseudo_class.jpg\"><br>4.2. Псевдоелементи<br><img src=\"img/lab2/pseudo_element.jpg\"><br>"
+          "1. Селектори тегу<br><img src=\"img/lab2/tag.jpg\"><br><img src=\"img/lab2/tag-html.jpg\"><br>",
+          "2. Селектори класу<br><img src=\"img/lab2/class.jpg\"><br><img src=\"img/lab2/class-html.jpg\"><br>",
+          "3. Селектори ідентифікаторів<br><img src=\"img/lab2/id.jpg\"><br><img src=\"img/lab2/id-html.jpg\"><br>",
+          "4. Інші селектори<br>",
+          "4.1. Псевдокласи<br><img src=\"img/lab2/pseudo_class.jpg\"><br><img src=\"img/lab2/pseudo_class-html.jpg\"><br>",
+          "4.2. Псевдоелементи<br><img src=\"img/lab2/pseudo_element.jpg\"><br><img src=\"img/lab2/pseudo_element-html.jpg\"><br>"
         ]
       },
       {

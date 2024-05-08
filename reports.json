@@ -107,8 +107,8 @@
         "title": "Хід роботи",
         "main": [
           "1. Десктопна версія<br>Стилі з минулих лабораторних робіт передбачають використання десктопної версії. Перехід до інших стилів буде відбуватися коли вікно браузера буде менше 1200px.<br>",
-          "2. Планшетна версія<br><img src=\"img/lab4/tablet.jpg\"><br>",
-          "3. Мобільна версія<br>Для телефонів-фаблетів:<br><img src=\"img/lab4/mobile-1.jpg\"><br>Для телефонів малої діагоналі екрану:<br><img src=\"img/lab4/mobile-2.jpg\">"
+          "2. Планшетна версія<br><img src=\"img/lab4/tablet.jpg\"><br><img src=\"img/lab4/tablet-output.jpg\"><br>",
+          "3. Мобільна версія<br>Для телефонів-фаблетів:<br><img src=\"img/lab4/mobile-1.jpg\"><br>Для телефонів малої діагоналі екрану:<br><img src=\"img/lab4/mobile-2.jpg\"><br><img src=\"img/lab4/mobile-output.jpg\">"
         ]
       },
       {
@@ -213,6 +213,74 @@
           "В даній лаобраторній роботі було досліджено ООП-функціонал JS, використання callback та стрілочних функцій. Отримані знання було опрацьовано за допомиги практичних завдань.<br>",
           "Посилання на отримані результати:<br>",
           "<ul><li>Репозиторій: <a href=\"https://github.com/Maxim-Mishchuk/mmd-lab6.github.io\">mmd-lab6</a></li></ul>"
+        ]
+      }
+    ]
+  },
+  {
+    "content": [
+      {
+        "title": "Тема та мета",
+        "main": [
+          "Тема: КЛАСИ. ОБ'ЄКТНА МОДЕЛЬ ДОКУМЕНТА (DOM). ПОДІЇ. ОБ'ЄКТ ПОДІЇ. ДЕЛЕГУВАННЯ ПОДІЙ. THROTTLE. МОДУЛЬНОСТЬ КОДУ<br>",
+          "Мета: придбати практичні навички роботи з об'єктами. Методи об'єкта. Callback. Стрілочні функції. Стрілочні функції як колбеки. Реалізація програм засовами мови JAVASCRIPT"
+        ]
+      },
+      {
+        "title": "Завдання №1",
+        "main": [
+          "Вхідні дані:<br><img src=\"img/lab7/task1-input.jpg\"><br>",
+          "Вихідний результат:<br><img src=\"img/lab7/task1-script.jpg\">"
+        ]
+      },
+      {
+        "title": "Завдання №3",
+        "main": [
+          "Вхідні дані:<br><img src=\"img/lab7/task2-input.jpg\"><br>",
+          "Вихідний результат:<br><img src=\"img/lab7/task2-script.jpg\">"
+        ]
+      },
+      {
+        "title": "Завдання №5",
+        "main": [
+          "Вхідні дані:<br><img src=\"img/lab7/task3-input.jpg\"><br>",
+          "Вихідний результат:<br><img src=\"img/lab7/task3-script.jpg\">"
+        ]
+      },
+      {
+        "title": "Завдання №7",
+        "main": [
+          "Вхідні дані:<br><img src=\"img/lab7/task4-input.jpg\"><br>",
+          "Вихідний результат:<br><img src=\"img/lab7/task4-script.jpg\">"
+        ]
+      },
+      {
+        "title": "Завдання №8",
+        "main": [
+          "Вхідні дані:<br><img src=\"img/lab7/task5-input.jpg\"><br>",
+          "Вихідний результат:<br><img src=\"img/lab7/task5-script.jpg\">"
+        ]
+      },
+      {
+        "title": "Завдання №9",
+        "main": [
+          "Вхідні дані:<br><img src=\"img/lab7/task6-input.jpg\"><br>",
+          "Вихідний результат:<br><img src=\"img/lab7/task6-script.jpg\">"
+        ]
+      },
+      {
+        "title": "Завдання №10",
+        "main": [
+          "Вхідні дані:<br><img src=\"img/lab7/task7-input.jpg\"><br><img src=\"img/lab7/task7-input2.jpg\"><br>",
+          "Вихідний результат:<br><img src=\"img/lab7/task7-script.jpg\">"
+        ]
+      },
+      {
+        "title": "Висновки",
+        "main": [
+          "В даній лаобраторній роботі було досліджено ООП-функціонал JS, використання callback та стрілочних функцій та застосування їх з використанням DOM. Отримані знання було опрацьовано за допомиги практичних завдань.<br>",
+          "Посилання на отримані результати:<br>",
+          "<ul><li>Репозиторій: <a href=\"https://github.com/Maxim-Mishchuk/mmd-lab7.github.io\">mmd-lab7</a></li></ul>"
         ]
       }
     ]

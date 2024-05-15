@@ -291,5 +291,51 @@
         ]
       }
     ]
+  },
+  {
+    "content": [
+      {
+        "title": "Тема та мета",
+        "main": [
+          "Тема: WEB-СХОВИЩЕ. WEB STORAGE API. МОДУЛЬНОСТЬ  КОДУ. СТВОРЕННЯ МОДАЛЬНОГО ВІКНА. ДЕЛЕГУВАННЯ ПОДІЙ.<br>",
+          "Мета: придбати практичні навички роботи створення модального вікна; повторити процес створення макету, зокрема створення макету галереї довільних зображень; закріпити навички роботи з делегуванням подій."
+        ]
+      },
+      {
+        "title": "Завдання №1",
+        "main": [
+          "Вхідні дані: створити галерею у вигляді невпорядкованого списку з підвантаженням даних та використанням модульних вікон.<br>",
+          "Хід роботи:<br>",
+          "1. task1.html<br><img src=\"img/lab8/task1-html.jpg\"><br>",
+          "2. task1.js<br><img src=\"img/lab8/task1-script.jpg\"><br>",
+          "Вихідний результат: <a href=\"https://maxim-mishchuk.github.io/mmd-lab8.github.io/task1.html\">Завдання №1</a>"
+        ]
+      },
+      {
+        "title": "Завдання №2",
+        "main": [
+          "Вхідні дані: створити форму, що перевіряє та зберігає дані в локальне веб-сховище.<br>",
+          "Хід роботи:<br>",
+          "1. task2.html<br><img src=\"img/lab8/task2-html.jpg\"><br>",
+          "2. task2.js<br><img src=\"img/lab8/task2-script-1.jpg\"><br><img src=\"img/lab8/task2-script-2.jpg\"><br>",
+          "Вихідний результат: <a href=\"https://maxim-mishchuk.github.io/mmd-lab8.github.io/task2.html\">Завдання №2</a>"
+        ]
+      },
+      {
+        "title": "Бонус",
+        "main": [
+          "Вхідні дані: випадково неправильно виконане перше завдання.<br>",
+          "Вихідний результат: <a href=\"https://maxim-mishchuk.github.io/mmd-lab8.github.io/gallery.html\">Галерея</a>"
+        ]
+      },
+      {
+        "title": "Висновки",
+        "main": [
+          "В даній лаобраторній роботі було відпрацьовано на практиці знання з делегування подій та використання локального веб-сховища. Під час відпрацювання практичних завдань було також досліджено модуль basicLightbox для створення модальних вікон.<br>",
+          "Посилання на отримані результати:<br>",
+          "<ul><li>Figma: <a href=\"https://www.figma.com/design/wDNLZWsDx3x1q3UP9htroT/mmd-lab7?node-id=0%3A1&t=RbcCGvdiGPJBpnYf-1\">mmd-lab7</a></li><li>Репозиторій: <a href=\"https://github.com/Maxim-Mishchuk/mmd-lab8.github.io\">mmd-lab8</a></li></ul>"
+        ]
+      }
+    ]
   }
 ]

@@ -337,5 +337,181 @@
         ]
       }
     ]
+  },
+  {
+    "content": [
+      {
+        "title": "Тема та мета",
+        "main": [
+          "Тема: React Basics<br>",
+          "Мета: Пройти курс з теми \"React Basics\" від компанії Meta на платформі Coursera"
+        ]
+      },
+      {
+        "title": "Self review: Your first component",
+        "main": [
+          "<img src=\"img/lab9/task-1.jpg\"><br>"
+        ]
+      },
+      {
+        "title": "Self review: Creating and importing components",
+        "main": [
+          "<img src=\"img/lab9/task-2.jpg\"><br>"
+        ]
+      },
+      {
+        "title": "Knowledge check: React components and where they live",
+        "main": [
+          "<img src=\"img/lab9/task-3-1.jpg\"><br>",
+          "<img src=\"img/lab9/task-3-2.jpg\"><br>"
+        ]
+      },
+      {
+        "title": "Self review: Passing props",
+        "main": [
+          "<img src=\"img/lab9/task-4.jpg\"><br>"
+        ]
+      },
+      {
+        "title": "Self review: Multiple components",
+        "main": [
+          "<img src=\"img/lab9/task-5.jpg\"><br>"
+        ]
+      },
+      {
+        "title": "Module Quiz (Week 1)",
+        "main": [
+          "<img src=\"img/lab9/task-6-1.jpg\"><br>",
+          "<img src=\"img/lab9/task-6-2.jpg\"><br>",
+          "<img src=\"img/lab9/task-6-3.jpg\"><br>",
+          "<img src=\"img/lab9/task-6-4.jpg\"><br>"
+        ]
+      },
+      {
+        "title": "Knowledge check: Events and errors",
+        "main": [
+          "<img src=\"img/lab9/task-7-1.jpg\"><br>",
+          "<img src=\"img/lab9/task-7-2.jpg\"><br>"
+        ]
+      },
+      {
+        "title": "Self review: Dynamic events",
+        "main": [
+          "<img src=\"img/lab9/task-8.jpg\"><br>"
+        ]
+      },
+      {
+        "title": "Knowledge check: Dynamic events and how to handle them",
+        "main": [
+          "<img src=\"img/lab9/task-9-1.jpg\"><br>",
+          "<img src=\"img/lab9/task-9-2.jpg\"><br>",
+          "<img src=\"img/lab9/task-9-3.jpg\"><br>"
+        ]
+      },
+      {
+        "title": "Knowledge check: Data flow",
+        "main": [
+          "<img src=\"img/lab9/task-10-1.jpg\"><br>",
+          "<img src=\"img/lab9/task-10-2.jpg\"><br>"
+        ]
+      },
+      {
+        "title": "Knowledge Check: State the concept",
+        "main": [
+          "<img src=\"img/lab9/task-11-1.jpg\"><br>",
+          "<img src=\"img/lab9/task-11-2.jpg\"><br>"
+        ]
+      },
+      {
+        "title": "Knowledge check: Passing state",
+        "main": [
+          "<img src=\"img/lab9/task-12-1.jpg\"><br>",
+          "<img src=\"img/lab9/task-12-2.jpg\"><br>"
+        ]
+      },
+      {
+        "title": "Self review: Managing state in React",
+        "main": [
+          "<img src=\"img/lab9/task-13-1.jpg\"><br>",
+          "<img src=\"img/lab9/task-13-2.jpg\"><br>"
+        ]
+      },
+      {
+        "title": "Knowledge check: State or stateless",
+        "main": [
+          "<img src=\"img/lab9/task-14-1.jpg\"><br>",
+          "<img src=\"img/lab9/task-14-2.jpg\"><br>"
+        ]
+      },
+      {
+        "title": "Module quiz: Data and state (Week 2)",
+        "main": [
+          "<img src=\"img/lab9/task-15-1.jpg\"><br>",
+          "<img src=\"img/lab9/task-15-2.jpg\"><br>",
+          "<img src=\"img/lab9/task-15-3.jpg\"><br>"
+        ]
+      },
+      {
+        "title": "Self review: Creating a route",
+        "main": [
+          "<img src=\"img/lab9/task-16.jpg\"><br>"
+        ]
+      },
+      {
+        "title": "Knowledge check: Navigation",
+        "main": [
+          "<img src=\"img/lab9/task-17-1.jpg\"><br>",
+          "<img src=\"img/lab9/task-17-2.jpg\"><br>"
+        ]
+      },
+      {
+        "title": "Knowledge check: Conditional updates",
+        "main": [
+          "<img src=\"img/lab9/task-18-1.jpg\"><br>",
+          "<img src=\"img/lab9/task-18-2.jpg\"><br>",
+          "<img src=\"img/lab9/task-18-3.jpg\"><br>"
+        ]
+      },
+      {
+        "title": "Self review: Displaying images",
+        "main": [
+          "<img src=\"img/lab9/task-19-1.jpg\"><br>",
+          "<img src=\"img/lab9/task-19-2.jpg\"><br>",
+          "<img src=\"img/lab9/task-19-3.jpg\"><br>"
+        ]
+      },
+      {
+        "title": "Self review: Song selection",
+        "main": [
+          "<img src=\"img/lab9/task-20-1.jpg\"><br>",
+          "<img src=\"img/lab9/task-20-2.jpg\"><br>"
+        ]
+      },
+      {
+        "title": "Module quiz: navigation, updating and assets in React.js (Week 3)",
+        "main": [
+          "<img src=\"img/lab9/task-21-1.jpg\"><br>",
+          "<img src=\"img/lab9/task-21-2.jpg\"><br>",
+          "<img src=\"img/lab9/task-21-3.jpg\"><br>",
+          "<img src=\"img/lab9/task-21-4.jpg\"><br>",
+          "<img src=\"img/lab9/task-21-5.jpg\"><br>"
+        ]
+      },
+      {
+        "title": "Peer-graded Assignment: Peer review: Build a calculator app",
+        "main": [
+          "<img src=\"img/lab9/task-22.jpg\"><br>",
+          "Архів проекту: <a href=\"blob/lab9/reactlab.zip\">завантажити</a>"
+        ]
+      },
+      {
+        "title": "Висновок",
+        "main": [
+          "В даній лабораторній роботі було пройдено курс \"React Basics\" на платформі Coursera. З цього курсу були отримані основні концепції побудови React-застосунку та отримані знання відпрацьовано на практичних завданнях.<br>",
+          "Посилання на отримані результати:<br>",
+          "<ul><li><a href=\"https://www.coursera.org/account/accomplishments/verify/XH72ZE3VYTYP\">Сертифікат</a></li></ul>"
+        ]
+      }
+    ]
   }
 ]
